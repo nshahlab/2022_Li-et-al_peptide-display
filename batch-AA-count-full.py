@@ -15,7 +15,7 @@ directory = subprocess.check_output(['pwd'], universal_newlines=True).rstrip()
 seqLen = 11
 aaList = ["A","C","D","E","F","G","H","I","K","L","M","N","P","Q","R","S","T","V","W","Y","*"]
 
-# Import data
+# Import data, produce counts matrix, and save output file.
 
 for filename in os.listdir(directory):
 	if filename.endswith(".translate.fasta"):
