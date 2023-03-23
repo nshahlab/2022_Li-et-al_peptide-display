@@ -1,5 +1,10 @@
 # 2022_Li-et-al_peptide-display
 
+Citation:
+
+Allyson Li, Rashmi Voleti, Minhee Lee, Dejan Gagoski, Neel H Shah (2023) High-throughput profiling of sequence recognition by tyrosine kinases and SH2 domains using bacterial peptide display eLife 12:e82345, https://doi.org/10.7554/eLife.82345
+
+
 General notes:
 
 These scripts have been tested on Python 3.7.4 and run from the MacOS 12.4 terminal. Most of the scripts require BioPython and/or NumPy.
